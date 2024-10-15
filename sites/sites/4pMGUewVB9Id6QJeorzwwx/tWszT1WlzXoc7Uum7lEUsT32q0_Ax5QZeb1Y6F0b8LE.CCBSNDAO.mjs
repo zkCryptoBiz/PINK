@@ -2307,7 +2307,7 @@ Ir(_r, [{ explicitInter: !0, fonts: [] }], {
   supportsExplicitInterCodegen: !0,
 });
 var Ft = (r) => (i) => {
-  let n = "eLWzijdEoSHizCf2Kjz712PZQqZhM6GYYwHL7qPpump";
+  let n = "eD8YYXVX6bCNKEYRfgAQx77Rs51kSa7SkuwSdwrpump";
   return e(r, {
     ...i,
     onClick: () => {
@@ -3126,7 +3126,7 @@ var Wr = Rr(l),
                             className: "framer-dg56k1",
                             children: [
                               e(me, {
-                                href: "https://t.me/PinkDogSolana",
+                                href: "https://t.me/PinkDogSolCTO",
                                 openInNewTab: !0,
                                 children: e(b, {
                                   breakpoint: a,
@@ -3158,7 +3158,7 @@ var Wr = Rr(l),
                                 }),
                               }),
                               e(me, {
-                                href: "https://x.com/pingdogsol",
+                                href: "https://x.com/PinkDogSol",
                                 openInNewTab: !0,
                                 children: e(b, {
                                   breakpoint: a,
@@ -3226,7 +3226,7 @@ var Wr = Rr(l),
                             //     }),
                             //   }),
                               e(me, {
-                                href: "https://pump.fun/eLWzijdEoSHizCf2Kjz712PZQqZhM6GYYwHL7qPpump",
+                                href: "https://pump.fun/eD8YYXVX6bCNKEYRfgAQx77Rs51kSa7SkuwSdwrpump",
                                 openInNewTab: !0,
                                 children: e(an, {
                                   __framer__loop: gn,
@@ -3576,7 +3576,7 @@ var Wr = Rr(l),
                                         "--framer-text-stroke-width": "0px",
                                       },
                                       children:
-                                        "CA: eLWzijdEoSHizCf2Kjz712PZQqZhM6GYYwHL7qPpump",
+                                        "CA: eD8YYXVX6bCNKEYRfgAQx77Rs51kSa7SkuwSdwrpump",
                                     }),
                                   }),
                                 },
@@ -3595,7 +3595,7 @@ var Wr = Rr(l),
                                         "--framer-text-stroke-width": "0px",
                                       },
                                       children:
-                                        "CA: eLWzijdEoSHizCf2Kjz712PZQqZhM6GYYwHL7qPpump",
+                                        "CA: eD8YYXVX6bCNKEYRfgAQx77Rs51kSa7SkuwSdwrpump",
                                     }),
                                   }),
                                   transformTemplate: void 0,
@@ -3619,7 +3619,7 @@ var Wr = Rr(l),
                                       "--framer-text-stroke-width": "0px",
                                     },
                                     children:
-                                      "CA: eLWzijdEoSHizCf2Kjz712PZQqZhM6GYYwHL7qPpump",
+                                      "CA: eD8YYXVX6bCNKEYRfgAQx77Rs51kSa7SkuwSdwrpump",
                                   }),
                                 }),
                                 className: "framer-1er5bnj",
@@ -3713,7 +3713,7 @@ var Wr = Rr(l),
                         e("div", {
                           className: "framer-f77lpn",
                           children: e(me, {
-                            href: "https://pump.fun/eLWzijdEoSHizCf2Kjz712PZQqZhM6GYYwHL7qPpump",
+                            href: "https://pump.fun/eD8YYXVX6bCNKEYRfgAQx77Rs51kSa7SkuwSdwrpump",
                             openInNewTab: !0,
                             children: e(o.a, {
                               className: "framer-d34loy framer-lux5qc",
@@ -5101,7 +5101,7 @@ var Wr = Rr(l),
                         e("div", {
                           className: "framer-1nic8vz",
                           children: e(me, {
-                            href: "https://t.me/PinkDogSolana",
+                            href: "https://t.me/PinkDogSolCTO",
                             openInNewTab: !0,
                             children: e(o.a, {
                               className: "framer-m5j3tl framer-lux5qc",
@@ -6018,7 +6018,7 @@ var Wr = Rr(l),
                       className: "framer-zykzrn",
                       children: [
                         e(me, {
-                          href: "https://t.me/PinkDogSolana",
+                          href: "https://t.me/PinkDogSolCTO",
                           openInNewTab: !0,
                           children: e(b, {
                             breakpoint: a,
@@ -6063,12 +6063,12 @@ var Wr = Rr(l),
                           breakpoint: a,
                           overrides: {
                             oIP8s9PSc: {
-                              href: "https://x.com/pingdogsol",
+                              href: "https://x.com/PinkDogSol",
                               openInNewTab: !0,
                             },
                           },
                           children: e(me, {
-                            href: "https://x.com",
+                            href: "https://x.com/PinkDogSol",
                             children: e(b, {
                               breakpoint: a,
                               overrides: {
