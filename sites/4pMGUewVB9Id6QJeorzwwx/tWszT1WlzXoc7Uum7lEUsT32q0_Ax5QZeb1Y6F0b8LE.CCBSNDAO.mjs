@@ -2307,7 +2307,7 @@ Ir(_r, [{ explicitInter: !0, fonts: [] }], {
   supportsExplicitInterCodegen: !0,
 });
 var Ft = (r) => (i) => {
-  let n = "xxxxxxxxxxx";
+  let n = "5oHmbdHJARXcW7SmyvcnMTAVmNsJBnch3tujBgnSpump";
   return e(r, {
     ...i,
     onClick: () => {
@@ -3226,7 +3226,7 @@ var Wr = Rr(l),
                             //     }),
                             //   }),
                               e(me, {
-                                href: "https://pump.fun/xxxxxxxxxxx",
+                                href: "https://pump.fun/5oHmbdHJARXcW7SmyvcnMTAVmNsJBnch3tujBgnSpump",
                                 openInNewTab: !0,
                                 children: e(an, {
                                   __framer__loop: gn,
@@ -3576,7 +3576,7 @@ var Wr = Rr(l),
                                         "--framer-text-stroke-width": "0px",
                                       },
                                       children:
-                                        "CA: xxxxxxxxxxx",
+                                        "CA: 5oHmbdHJARXcW7SmyvcnMTAVmNsJBnch3tujBgnSpump",
                                     }),
                                   }),
                                 },
@@ -3595,7 +3595,7 @@ var Wr = Rr(l),
                                         "--framer-text-stroke-width": "0px",
                                       },
                                       children:
-                                        "CA: xxxxxxxxxxx",
+                                        "CA: 5oHmbdHJARXcW7SmyvcnMTAVmNsJBnch3tujBgnSpump",
                                     }),
                                   }),
                                   transformTemplate: void 0,
@@ -3619,7 +3619,7 @@ var Wr = Rr(l),
                                       "--framer-text-stroke-width": "0px",
                                     },
                                     children:
-                                      "CA: xxxxxxxxxxx",
+                                      "CA: 5oHmbdHJARXcW7SmyvcnMTAVmNsJBnch3tujBgnSpump",
                                   }),
                                 }),
                                 className: "framer-1er5bnj",
@@ -3713,7 +3713,7 @@ var Wr = Rr(l),
                         e("div", {
                           className: "framer-f77lpn",
                           children: e(me, {
-                            href: "https://pump.fun/xxxxxxxxxxx",
+                            href: "https://pump.fun/5oHmbdHJARXcW7SmyvcnMTAVmNsJBnch3tujBgnSpump",
                             openInNewTab: !0,
                             children: e(o.a, {
                               className: "framer-d34loy framer-lux5qc",
@@ -6110,7 +6110,7 @@ var Wr = Rr(l),
                           }),
                         }),
                         e(me, {
-                          href: "https://pump.fun/xxxxxxxxxxx",
+                          href: "https://pump.fun/5oHmbdHJARXcW7SmyvcnMTAVmNsJBnch3tujBgnSpump",
                           openInNewTab: !0,
                           children: e(b, {
                             breakpoint: a,
