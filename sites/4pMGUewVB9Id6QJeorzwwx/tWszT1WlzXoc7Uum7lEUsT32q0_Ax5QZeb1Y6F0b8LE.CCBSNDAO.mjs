@@ -2307,7 +2307,7 @@ Ir(_r, [{ explicitInter: !0, fonts: [] }], {
   supportsExplicitInterCodegen: !0,
 });
 var Ft = (r) => (i) => {
-  let n = "JShSypKjK1Hv5PZxy4GUtkZrr2H7v8wDWBoPk2jpump";
+  let n = "xxxxxxxxxxx";
   return e(r, {
     ...i,
     onClick: () => {
@@ -3126,7 +3126,7 @@ var Wr = Rr(l),
                             className: "framer-dg56k1",
                             children: [
                               e(me, {
-                                href: "https://t.me/pinkylittledog",
+                                href: "https://t.me/pinkpongcoin",
                                 openInNewTab: !0,
                                 children: e(b, {
                                   breakpoint: a,
@@ -3158,7 +3158,7 @@ var Wr = Rr(l),
                                 }),
                               }),
                               e(me, {
-                                href: "https://x.com/pinkylittledog",
+                                href: "https://x.com/PinkPongDog",
                                 openInNewTab: !0,
                                 children: e(b, {
                                   breakpoint: a,
@@ -3226,7 +3226,7 @@ var Wr = Rr(l),
                             //     }),
                             //   }),
                               e(me, {
-                                href: "https://pump.fun/JShSypKjK1Hv5PZxy4GUtkZrr2H7v8wDWBoPk2jpump",
+                                href: "https://pump.fun/xxxxxxxxxxx",
                                 openInNewTab: !0,
                                 children: e(an, {
                                   __framer__loop: gn,
@@ -3576,7 +3576,7 @@ var Wr = Rr(l),
                                         "--framer-text-stroke-width": "0px",
                                       },
                                       children:
-                                        "CA: JShSypKjK1Hv5PZxy4GUtkZrr2H7v8wDWBoPk2jpump",
+                                        "CA: xxxxxxxxxxx",
                                     }),
                                   }),
                                 },
@@ -3595,7 +3595,7 @@ var Wr = Rr(l),
                                         "--framer-text-stroke-width": "0px",
                                       },
                                       children:
-                                        "CA: JShSypKjK1Hv5PZxy4GUtkZrr2H7v8wDWBoPk2jpump",
+                                        "CA: xxxxxxxxxxx",
                                     }),
                                   }),
                                   transformTemplate: void 0,
@@ -3619,7 +3619,7 @@ var Wr = Rr(l),
                                       "--framer-text-stroke-width": "0px",
                                     },
                                     children:
-                                      "CA: JShSypKjK1Hv5PZxy4GUtkZrr2H7v8wDWBoPk2jpump",
+                                      "CA: xxxxxxxxxxx",
                                   }),
                                 }),
                                 className: "framer-1er5bnj",
@@ -3713,7 +3713,7 @@ var Wr = Rr(l),
                         e("div", {
                           className: "framer-f77lpn",
                           children: e(me, {
-                            href: "https://pump.fun/JShSypKjK1Hv5PZxy4GUtkZrr2H7v8wDWBoPk2jpump",
+                            href: "https://pump.fun/xxxxxxxxxxx",
                             openInNewTab: !0,
                             children: e(o.a, {
                               className: "framer-d34loy framer-lux5qc",
@@ -5101,7 +5101,7 @@ var Wr = Rr(l),
                         e("div", {
                           className: "framer-1nic8vz",
                           children: e(me, {
-                            href: "https://t.me/pinkylittledog",
+                            href: "https://t.me/pinkpongcoin",
                             openInNewTab: !0,
                             children: e(o.a, {
                               className: "framer-m5j3tl framer-lux5qc",
@@ -6018,7 +6018,7 @@ var Wr = Rr(l),
                       className: "framer-zykzrn",
                       children: [
                         e(me, {
-                          href: "https://t.me/pinkylittledog",
+                          href: "https://t.me/pinkpongcoin",
                           openInNewTab: !0,
                           children: e(b, {
                             breakpoint: a,
@@ -6063,12 +6063,12 @@ var Wr = Rr(l),
                           breakpoint: a,
                           overrides: {
                             oIP8s9PSc: {
-                              href: "https://x.com/pinkylittledog",
+                              href: "https://x.com/PinkPongDog",
                               openInNewTab: !0,
                             },
                           },
                           children: e(me, {
-                            href: "https://x.com/pinkylittledog",
+                            href: "https://x.com/PinkPongDog",
                             children: e(b, {
                               breakpoint: a,
                               overrides: {
@@ -6110,7 +6110,7 @@ var Wr = Rr(l),
                           }),
                         }),
                         e(me, {
-                          href: "https://pump.fun/JShSypKjK1Hv5PZxy4GUtkZrr2H7v8wDWBoPk2jpump",
+                          href: "https://pump.fun/xxxxxxxxxxx",
                           openInNewTab: !0,
                           children: e(b, {
                             breakpoint: a,
