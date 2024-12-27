@@ -2307,7 +2307,7 @@ Ir(_r, [{ explicitInter: !0, fonts: [] }], {
   supportsExplicitInterCodegen: !0,
 });
 var Ft = (r) => (i) => {
-  let n = "XXXX";
+  let n = "DTJRrDg1YU8F1ebQVSCH4sxKw5ynCqT6R27L2n4ipump";
   return e(r, {
     ...i,
     onClick: () => {
@@ -3226,7 +3226,7 @@ var Wr = Rr(l),
                             //     }),
                             //   }),
                               e(me, {
-                                href: "https://pump.fun/XXXX",
+                                href: "https://pump.fun/DTJRrDg1YU8F1ebQVSCH4sxKw5ynCqT6R27L2n4ipump",
                                 openInNewTab: !0,
                                 children: e(an, {
                                   __framer__loop: gn,
@@ -3576,7 +3576,7 @@ var Wr = Rr(l),
                                         "--framer-text-stroke-width": "0px",
                                       },
                                       children:
-                                        "CA: XXXX",
+                                        "CA: DTJRrDg1YU8F1ebQVSCH4sxKw5ynCqT6R27L2n4ipump",
                                     }),
                                   }),
                                 },
@@ -3595,7 +3595,7 @@ var Wr = Rr(l),
                                         "--framer-text-stroke-width": "0px",
                                       },
                                       children:
-                                        "CA: XXXX",
+                                        "CA: DTJRrDg1YU8F1ebQVSCH4sxKw5ynCqT6R27L2n4ipump",
                                     }),
                                   }),
                                   transformTemplate: void 0,
@@ -3619,7 +3619,7 @@ var Wr = Rr(l),
                                       "--framer-text-stroke-width": "0px",
                                     },
                                     children:
-                                      "CA: XXXX",
+                                      "CA: DTJRrDg1YU8F1ebQVSCH4sxKw5ynCqT6R27L2n4ipump",
                                   }),
                                 }),
                                 className: "framer-1er5bnj",
@@ -3713,7 +3713,7 @@ var Wr = Rr(l),
                         e("div", {
                           className: "framer-f77lpn",
                           children: e(me, {
-                            href: "https://pump.fun/XXXX",
+                            href: "https://pump.fun/DTJRrDg1YU8F1ebQVSCH4sxKw5ynCqT6R27L2n4ipump",
                             openInNewTab: !0,
                             children: e(o.a, {
                               className: "framer-d34loy framer-lux5qc",
@@ -6110,7 +6110,7 @@ var Wr = Rr(l),
                           }),
                         }),
                         e(me, {
-                          href: "https://pump.fun/XXXX",
+                          href: "https://pump.fun/DTJRrDg1YU8F1ebQVSCH4sxKw5ynCqT6R27L2n4ipump",
                           openInNewTab: !0,
                           children: e(b, {
                             breakpoint: a,
