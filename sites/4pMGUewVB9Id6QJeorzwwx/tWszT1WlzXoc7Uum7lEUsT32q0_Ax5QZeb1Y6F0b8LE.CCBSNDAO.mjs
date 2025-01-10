@@ -3226,7 +3226,7 @@ var Wr = Rr(l),
                             //     }),
                             //   }),
                               e(me, {
-                                href: "https://pump.fun/CHANGE",
+                                href: "https://pump.fun79JDkRBjV2byqrWVx2qT3Y8Noia1jsoiWfNBWCC7pump",
                                 openInNewTab: !0,
                                 children: e(an, {
                                   __framer__loop: gn,
@@ -3713,7 +3713,7 @@ var Wr = Rr(l),
                         e("div", {
                           className: "framer-f77lpn",
                           children: e(me, {
-                            href: "https://pump.fun/CHANGE",
+                            href: "https://pump.fun79JDkRBjV2byqrWVx2qT3Y8Noia1jsoiWfNBWCC7pump",
                             openInNewTab: !0,
                             children: e(o.a, {
                               className: "framer-d34loy framer-lux5qc",
@@ -6110,7 +6110,7 @@ var Wr = Rr(l),
                           }),
                         }),
                         e(me, {
-                          href: "https://pump.fun/CHANGE",
+                          href: "https://pump.fun79JDkRBjV2byqrWVx2qT3Y8Noia1jsoiWfNBWCC7pump",
                           openInNewTab: !0,
                           children: e(b, {
                             breakpoint: a,
