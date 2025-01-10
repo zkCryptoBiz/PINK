@@ -2307,7 +2307,7 @@ Ir(_r, [{ explicitInter: !0, fonts: [] }], {
   supportsExplicitInterCodegen: !0,
 });
 var Ft = (r) => (i) => {
-  let n = "CHANGE";
+  let n = "79JDkRBjV2byqrWVx2qT3Y8Noia1jsoiWfNBWCC7pump";
   return e(r, {
     ...i,
     onClick: () => {
@@ -3226,7 +3226,7 @@ var Wr = Rr(l),
                             //     }),
                             //   }),
                               e(me, {
-                                href: "https://pump.fun79JDkRBjV2byqrWVx2qT3Y8Noia1jsoiWfNBWCC7pump",
+                                href: "https://pump.fun/79JDkRBjV2byqrWVx2qT3Y8Noia1jsoiWfNBWCC7pump",
                                 openInNewTab: !0,
                                 children: e(an, {
                                   __framer__loop: gn,
@@ -3576,7 +3576,7 @@ var Wr = Rr(l),
                                         "--framer-text-stroke-width": "0px",
                                       },
                                       children:
-                                        "CA: CHANGE",
+                                        "CA: 79JDkRBjV2byqrWVx2qT3Y8Noia1jsoiWfNBWCC7pump",
                                     }),
                                   }),
                                 },
@@ -3595,7 +3595,7 @@ var Wr = Rr(l),
                                         "--framer-text-stroke-width": "0px",
                                       },
                                       children:
-                                        "CA: CHANGE",
+                                        "CA: 79JDkRBjV2byqrWVx2qT3Y8Noia1jsoiWfNBWCC7pump",
                                     }),
                                   }),
                                   transformTemplate: void 0,
@@ -3619,7 +3619,7 @@ var Wr = Rr(l),
                                       "--framer-text-stroke-width": "0px",
                                     },
                                     children:
-                                      "CA: CHANGE",
+                                      "CA: 79JDkRBjV2byqrWVx2qT3Y8Noia1jsoiWfNBWCC7pump",
                                   }),
                                 }),
                                 className: "framer-1er5bnj",
@@ -3713,7 +3713,7 @@ var Wr = Rr(l),
                         e("div", {
                           className: "framer-f77lpn",
                           children: e(me, {
-                            href: "https://pump.fun79JDkRBjV2byqrWVx2qT3Y8Noia1jsoiWfNBWCC7pump",
+                            href: "https://pump.fun/79JDkRBjV2byqrWVx2qT3Y8Noia1jsoiWfNBWCC7pump",
                             openInNewTab: !0,
                             children: e(o.a, {
                               className: "framer-d34loy framer-lux5qc",
@@ -6110,7 +6110,7 @@ var Wr = Rr(l),
                           }),
                         }),
                         e(me, {
-                          href: "https://pump.fun79JDkRBjV2byqrWVx2qT3Y8Noia1jsoiWfNBWCC7pump",
+                          href: "https://pump.fun/79JDkRBjV2byqrWVx2qT3Y8Noia1jsoiWfNBWCC7pump",
                           openInNewTab: !0,
                           children: e(b, {
                             breakpoint: a,
